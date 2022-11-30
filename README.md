@@ -6,8 +6,6 @@ This application is a text editor that runs in the browser. It is a single-page 
 
 ## Usage
 
-To start this application, run `npm run start` from the root directory.
-
 * When the text editor application is run from the terminal, then the user will find that their JavaScript files have been bundled using webpack.
 * When the the webpack plugins are run, then the user finds that they have a generated HTML file, service worker, and a manifest file.
 * When next-gen JavaScript is used in the application, then the user finds that the text editor still functions in the browser without errors.
