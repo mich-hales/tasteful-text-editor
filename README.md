@@ -21,8 +21,7 @@ To start this application, run `npm run start` from the root directory.
 
 ## Preview
 
-The site is live on heroku and can be accessed here:  
-
+The site is live on heroku and can be accessed here: https://tasteful-text-editor.herokuapp.com/  
 
 The following image shows a preview of the application:
 
