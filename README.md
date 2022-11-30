@@ -26,7 +26,7 @@ The site is live on heroku and can be accessed here:
 
 The following image shows a preview of the application:
 
-![image showing a mockup of the webpage which has JATE in big letters and the text editor below it](./Assets/01-manifest.png)
+![image showing a mockup of the webpage which has JATE in big letters and the text editor below it](./Assets/localhost_3000_.png)
 
 
 ## Contact
@@ -37,3 +37,4 @@ Email: michellehales93@gmail.com
 GitHub: https://github.com/mich-hales
 GitHub Repository: https://github.com/mich-hales/tasteful-text-editor
 
+****
