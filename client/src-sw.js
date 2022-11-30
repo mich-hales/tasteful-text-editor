@@ -28,7 +28,7 @@ registerRoute(({ request }) => request.mode === 'navigate', pageCache);
 
 
 // Asset caching
-const assetCaching = new CacheFirst({
+const assetCache = new CacheFirst({
   cacheName: 'asset-cache',
   plugins: [
     new CacheableResponsePlugin({
@@ -49,4 +49,4 @@ const designateCache = ({ request }) => {
   );
 };
 
-registerRoute(designateCache, assetCaching);
+registerRoute(designateCache, assetCache);
